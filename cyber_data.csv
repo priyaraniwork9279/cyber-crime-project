@@ -1,0 +1,26 @@
+Crime_ID,Incident_Date,Fraud_Type,Loss_Amount,Region,State,Victim_Age,Status
+CYB001,2024-01-08,UPI Phishing,47500,Patna,Bihar,34,Resolved
+CYB002,2024-01-15,OTP Fraud,21000,Gaya,Bihar,52,Under Investigation
+CYB003,2024-01-22,UPI Phishing,38000,Muzaffarpur,Bihar,29,Resolved
+CYB004,2024-02-01,Investment Scam,520000,Patna,Bihar,55,Under Investigation
+CYB005,2024-02-07,UPI Phishing,62000,Darbhanga,Bihar,41,Resolved
+CYB006,2024-02-13,UPI Phishing,29000,Bhagalpur,Bihar,33,Resolved
+CYB007,2024-02-19,Social Media Fraud,15500,Gaya,Bihar,24,Under Investigation
+CYB008,2024-02-26,UPI Phishing,55000,Patna,Bihar,38,Resolved
+CYB009,2024-03-04,OTP Fraud,18000,Ara,Bihar,46,Closed
+CYB010,2024-03-11,UPI Phishing,43000,Nalanda,Bihar,31,Under Investigation
+CYB011,2024-03-18,UPI Phishing,36000,Siwan,Bihar,27,Resolved
+CYB012,2024-03-25,Investment Scam,890000,Muzaffarpur,Bihar,61,Under Investigation
+CYB013,2024-04-01,UPI Phishing,51000,Begusarai,Bihar,35,Resolved
+CYB014,2024-04-08,Email Phishing,13000,Patna,Bihar,48,Closed
+CYB015,2024-04-15,UPI Phishing,68000,Hajipur,Bihar,30,Under Investigation
+CYB016,2024-04-22,UPI Phishing,44000,Samastipur,Bihar,37,Resolved
+CYB017,2024-04-29,Investment Scam,670000,Patna,Bihar,58,Under Investigation
+CYB018,2024-05-06,UPI Phishing,39000,Gaya,Bihar,26,Resolved
+CYB019,2024-05-13,Social Media Fraud,22000,Darbhanga,Bihar,32,Closed
+CYB020,2024-05-20,UPI Phishing,57000,Patna,Bihar,43,Resolved
+CYB021,2024-05-27,OTP Fraud,16500,Bhagalpur,Bihar,50,Under Investigation
+CYB022,2024-06-03,UPI Phishing,71000,Muzaffarpur,Bihar,28,Resolved
+CYB023,2024-06-10,UPI Phishing,33000,Ara,Bihar,36,Closed
+CYB024,2024-06-17,Investment Scam,1100000,Patna,Bihar,64,Under Investigation
+CYB025,2024-06-24,UPI Phishing,49000,Nalanda,Bihar,39,Resolved
